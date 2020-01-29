@@ -5,7 +5,7 @@ It currently works but at the moment, there are still bugs and features I wish t
 Bugs
 -The Text Region above doesn't say who won unless you click on a button one more time after a win.
 
-Potential Future Features
+Potential Future Features\n
 -A red bar that indicates the winning line.
 -A menu screen that starts the game.
 -A replay button that restarts the game without needing to exit and run again.
